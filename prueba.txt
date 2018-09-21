@@ -1,1 +1,5 @@
 cambiando prueba.txt, verificando nro de commints
+verificando multiples lineas:
+linea 1
+linea 2
+linea 3

@@ -64,7 +64,9 @@ shinyUI(fluidPage(
                         mainPanel(h2("Aproximación de la binomial a la normal"),
                                   tabsetPanel(tabPanel("Gráfica", plotOutput("Grafica1")),
                                               tabPanel("Descripción",
-                                                       p(""))
+                                                       p("La distribución binomial es una distribución de probabilidad discreta que cuenta el número de éxitos en una secuencia de n ensayos dependientes entre sí, con una probabilidad fija p de ocurrencia del éxito entre los ensayos. 
+
+La distribución normal, es una de las distribuciones de probabilidad de variable continua que con más frecuencia aparece aproximada en fenómenos reales."))
                                               
                                   )
                                   
